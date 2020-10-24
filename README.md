@@ -1,6 +1,6 @@
 # simon
 
-https://fatihandyildiz.github.io/simon/
+https://fatihyildiz-cs.github.io/simon/
 
 In this game, you have to mimic the random colors/sounds in order. At each level, there is a new color added to the sequence. There might be latency in mobile and desktop safari visits:
 
